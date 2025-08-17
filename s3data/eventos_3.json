@@ -1,0 +1,16 @@
+[
+    {
+        "id": 51,
+        "evento": "login",
+        "ocorrencia": "2024-01-13T13:35:41",
+        "valor": 713,
+        "verificado": true
+    },
+    {
+        "id": 52,
+        "evento": "erro",
+        "ocorrencia": "2024-11-13T07:00:11",
+        "valor": 377,
+        "verificado": true
+    }
+]

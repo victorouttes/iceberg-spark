@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nome": "Fulano de Tal",
+        "data_contratacao": "2024-08-14T14:06:26"
+    },
+    {
+        "id": 2,
+        "nome": "Beltrano",
+        "data_contratacao": "2022-01-14T09:00:00"
+    }
+]
