@@ -1,6 +1,6 @@
 # iceberg-spark
-Projeto exemplo para rodar o Spark com Iceberg. O mais interessante é a implementação de um SCD tipo 2 com
-Iceberg.
+Projeto exemplo para rodar o Spark com Iceberg, usando o Glue Catalog como catálogo de metadados. 
+O mais interessante é a implementação de um SCD tipo 2 com Iceberg.
 
 Você deve baixar as seguintes versões de *.jar e colocar na pasta `jars` do projeto:
 - aws-java-sdk-bundle-1.12.696.jar
